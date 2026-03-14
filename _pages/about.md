@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/xkcd_linear_regression.png" 
+<img src="/images/xkcd_linear_regression.jpg" 
      alt="xkcd Linear Regression" 
      style="float:right; width:.300px; margin-left:20px; margin-bottom:10px;">
 
