@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/linear_regression.png" 
+<img src="/images/xkcd_linear_regression.png" 
      alt="xkcd: Linear Regression" 
-     style="float:right; width:300px; margin-left:20px; margin-bottom:10px;">
+     style="float:right; width:400px; margin-left:20px; margin-bottom:10px;">
 
 🔬 My research interests focus on the design and analysis of architected piezoelectric metamaterials for controlling acoustic and elastic waves.
 
