@@ -7,12 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-![xkcd Linear Regression](/images/linear_regression.png){: .align-right width="300px"}
+<img src="/images/linear_regression.png" 
+     alt="xkcd: Linear Regression" 
+     style="float:right; width:300px; margin-left:20px; margin-bottom:10px;">
 
-👨🏻‍💻 I am PhD student in Phononic Crystals and Metamaterials.
+👨🏻‍💻 I am a PhD student in Phononic Crystals and Metamaterials.
 
-🔬 My research interest are on the design and analysis of architected piezoelectric metamaterials for controlling acoustic and elastic wave!
+🔬 My research interests are in the design and analysis of architected piezoelectric metamaterials for controlling acoustic and elastic waves.
 
-I am also interested in Finite Element Method (COMSOL Multiphysics®) and Deep Learning, including GNNs.
+I am also interested in the Finite Element Method (COMSOL Multiphysics®) and Deep Learning, including GNNs.
 
-I'm just starting my thesis, so i don't have anything concrete to add right now.
+I'm just starting my thesis, so I don't have anything concrete to add right now.
