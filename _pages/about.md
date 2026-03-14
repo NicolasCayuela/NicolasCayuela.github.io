@@ -9,7 +9,7 @@ redirect_from:
 
 <img src="/images/linear_regression.png" 
      alt="xkcd: Linear Regression" 
-     style="float:right; width:500px; margin-left:20px; margin-bottom:10px;">
+     style="float:right; width:300px; margin-left:20px; margin-bottom:10px;">
 
 👨🏻‍💻 I am a PhD student working on Phononic Crystals and Metamaterials.
 
